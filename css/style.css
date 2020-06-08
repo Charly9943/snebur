@@ -1,7 +1,7 @@
 :root{
     --color1: rgb(219,144,.5);
     --color2: rgb(23,180,.0788);
-    --color3: #0bc2d39f;
+    --color3: rgb(11,194,211,.623);
     --fondo: #f2f2f2;
     --titulos: 33px;
     --margenes: 60px;
@@ -103,4 +103,18 @@ body{
       opacity: 0;
     }
   }
+  
+  /* =============================================
+  => Header
+  ============================================= */
+
+  header{
+      width: 100%;
+      height: 600px;
+      background: linear-gradient(to bottom, );
+      
+  }
+
+  Cambio ruben 20:20
+
   
